@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1689666912383,
+    "addDate": 1689675570209,
     "title": "书签栏",
     "children": [
       {
@@ -29,13 +29,6 @@
             "title": "比特彗星-BitComet",
             "icon": "https://logo.clearbit.com/pan.lanzouo.com",
             "url": "https://pan.lanzouo.com/b073c7g4f"
-          },
-          {
-            "type": "link",
-            "addDate": 1710090095000,
-            "title": "娜娜 :: 尼亚",
-            "icon": "https://logo.clearbit.com/nyaa.si",
-            "url": "https://nyaa.si/?q=nana&f=0&c=0_0"
           },
           {
             "type": "link",
@@ -1697,6 +1690,13 @@
             "url": "https://mail.google.com/mail/u/0/#inbox"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1729155216893,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/yangdoctor96.github.io",
+        "url": "https://yangdoctor96.github.io/bookmarks/"
       }
     ]
   }
