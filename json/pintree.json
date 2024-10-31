@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1689675570209,
+    "addDate": 1689666912383,
     "title": "书签栏",
     "children": [
       {
@@ -169,6 +169,34 @@
             "title": "LX Music - 一个免费&开源的音乐查找工具 | LX Music",
             "icon": "https://logo.clearbit.com/lxmusic.toside.cn",
             "url": "https://lxmusic.toside.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730028971170,
+            "title": "百度网盘-迅雷11绿色免安装版(无广告、下载速度无限制)",
+            "icon": "https://logo.clearbit.com/pan.baidu.com",
+            "url": "https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2F%E5%AE%89%E8%A3%85%E5%8C%85%E5%B7%A5%E5%85%B7"
+          },
+          {
+            "type": "link",
+            "addDate": 1729837682040,
+            "title": "CCleaner Professional | 免费试用世界上最值得信赖的 PC 清理工具！",
+            "icon": "https://logo.clearbit.com/www.ccleaner.com",
+            "url": "https://www.ccleaner.com/zh-cn/ccleaner"
+          },
+          {
+            "type": "link",
+            "addDate": 1730338389319,
+            "title": "小米电脑管家 wtsapi32.dll - 蓝奏云",
+            "icon": "https://logo.clearbit.com/wwk.lanzn.com",
+            "url": "https://wwk.lanzn.com/ikUN523q6h4j"
+          },
+          {
+            "type": "link",
+            "addDate": 1730338401239,
+            "title": "小米电脑管家 Xiaomi HyperConnect 跨端智联",
+            "icon": "https://logo.clearbit.com/hyperos.mi.com",
+            "url": "https://hyperos.mi.com/continuity"
           }
         ]
       },
@@ -281,6 +309,20 @@
             "title": "NGA玩家社区",
             "icon": "https://logo.clearbit.com/bbs.nga.cn",
             "url": "https://bbs.nga.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729398935130,
+            "title": "《炉石传说》官方网站",
+            "icon": "https://logo.clearbit.com/hs.blizzard.cn",
+            "url": "https://hs.blizzard.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729398915692,
+            "title": "HSReplay.net - 释放您的潜能",
+            "icon": "https://logo.clearbit.com/hsreplay.net",
+            "url": "https://hsreplay.net/"
           },
           {
             "type": "link",
@@ -536,6 +578,13 @@
           },
           {
             "type": "link",
+            "addDate": 1729328555190,
+            "title": "观影 GYING",
+            "icon": "https://logo.clearbit.com/www.gying.net",
+            "url": "https://www.gying.net/"
+          },
+          {
+            "type": "link",
             "addDate": 1659095697000,
             "title": "哔嘀影视（简称BDYS），热门电影，最新电影，最新电视剧，免费下载，迅雷下载，磁力下载，电驴下载，免费在线观看",
             "icon": "https://logo.clearbit.com/www.bdys01.com",
@@ -699,8 +748,8 @@
             "type": "link",
             "addDate": 1684118801000,
             "title": "Legado web 导航",
-            "icon": "https://logo.clearbit.com/192.168.137.151",
-            "url": "http://192.168.137.151:1122/"
+            "icon": "https://logo.clearbit.com/192.168.0.100",
+            "url": "http://192.168.0.100:1122/"
           },
           {
             "type": "link",
